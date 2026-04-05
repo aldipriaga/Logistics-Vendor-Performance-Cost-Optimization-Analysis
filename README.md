@@ -33,4 +33,4 @@ Berdasarkan hasil analisis EDA dan Dashboard:
 
 ---
 **Developed by [Muhammad Aldi Priaga]**
-*Connect with me on [LinkedIn Link]*
+*Connect with me on [www.linkedin.com/in/muhammad-aldi-priaga-269aa9179]*
