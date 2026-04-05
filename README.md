@@ -16,9 +16,9 @@ Berdasarkan hasil analisis EDA dan Dashboard:
 4. **Energy Efficiency:** (Opsional jika dimasukkan) Kendaraan Listrik (EV) menunjukkan potensi penghematan biaya operasional dibandingkan kendaraan fossil.
 
 ## 📊 Dashboard Preview
-![Operational Overview]<img width="1365" height="719" alt="image" src="https://github.com/user-attachments/assets/e8bc2357-e385-4573-8a7d-27f92bfe0efe" />
+**Operational Overview** <img width="1365" height="719" alt="image" src="https://github.com/user-attachments/assets/e8bc2357-e385-4573-8a7d-27f92bfe0efe" />
 
-![Deep Analysis]<img width="1365" height="720" alt="image" src="https://github.com/user-attachments/assets/bd3256da-4480-42d8-b436-1acc256487f7" />
+**Deep Analysis** <img width="1365" height="720" alt="image" src="https://github.com/user-attachments/assets/bd3256da-4480-42d8-b436-1acc256487f7" />
 
 ## 📁 Repository Structure
 * `data/`: Folder berisi dataset (mentah & bersih).
